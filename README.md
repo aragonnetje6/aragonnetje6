@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aragonnetje6
 - 👀 I’m interested in improving my programming skills
-- 🌱 I’m currently learning python (self) and computer science (college)
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me: email, twitter, links in profile
 
